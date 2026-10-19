@@ -1,0 +1,2 @@
+com.vaibhav.distributed_lovable.common_lib.security.SharedSecurityAutoConfiguration
+com.vaibhav.distributed_lovable.common_lib.error.SharedExceptionAutoConfiguration
