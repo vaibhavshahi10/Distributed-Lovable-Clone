@@ -22,7 +22,6 @@ management:
 
 ---
 
-
 spring:
   config:
     activate:
